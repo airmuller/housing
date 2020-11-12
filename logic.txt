@@ -1,0 +1,14 @@
+initial dataset
+-structure json attibutes for with QGIS
+-structure distance calculed values for infrastructure
+-add infrastructure layers
+-validate hypothesis legal estimation
+
+machine learning module
+-automate benchmark results
+-fit inside QGIS graphical module
+
+visulalistion
+-Heatmap
+-dashboard valeur foncière
+-web for portefolio
